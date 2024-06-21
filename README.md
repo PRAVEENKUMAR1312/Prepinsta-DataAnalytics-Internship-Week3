@@ -9,7 +9,6 @@ Installation Instructions:
 To get started with this project, you need to have Python installed on your machine along with the necessary libraries. Follow the instructions below:
 1.Install Python: Download and install the latest version of Python from [here](https://www.python.org/downloads/).
 2. Install Dependencies: Run the following command to install the required libraries:
-   ```bash
  pip install numpy pandas seaborn
 
 Dependencies and Libraries:
